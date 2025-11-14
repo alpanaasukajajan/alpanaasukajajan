@@ -1,7 +1,10 @@
-<!-- ======================= CYBERPUNK BANNER ======================= -->
-<p align="center">
-  <img src="https://i.ibb.co/LC3bxpw/cyberpunk-banner.png" width="100%" alt="Cyberpunk Banner"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpanaasukajajan/alpanaasukajajan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alpanaasukajajan/alpanaasukajajan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alpanaasukajajan/alpanaasukajajan/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <h1 align="center">
   <span style="color:#00eaff; text-shadow:0 0 15px #00eaff;">⚡ AL FANA FAUZAN ⚡</span>
@@ -51,13 +54,7 @@
 </p>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpanaasukajajan/alpanaasukajajan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alpanaasukajajan/alpanaasukajajan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alpanaasukajajan/alpanaasukajajan/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZXKZWB13D6gFO/giphy.gif" width="200"/>
