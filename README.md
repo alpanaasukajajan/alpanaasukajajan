@@ -13,7 +13,7 @@
 ---
 
 <!-- ======================= ABOUT ======================= -->
-## 🧬 About Me (Neon Mode)
+## 🧬 About Me 
 - 🎓 Mahasiswa **Sistem Informasi**  
 - 🔮 Web Developer dengan sentuhan **cyberpunk modern**  
 - 🧪 UI/UX Designer & Graphic Artist  
@@ -55,11 +55,11 @@
 <!-- ======================= CYBERPUNK PACMAN ======================= -->
 ## 🎮 Cyberpunk Pac-Man
 
-<pre style="font-size: 15px;">
-<span style="color:#00eaff;">██</span><span style="color:#ff00ea;">██</span><span style="color:#00eaff;">██</span><span style="color:#ff00ea;">██</span><span style="color:#00eaff;">██</span>████████████████████████████████████████
-😋   <span style="color:#ff00ea;">★</span>  <span style="color:#00eaff;">•••••••••••••••••••••••••••••••••••••••••••</span>
-████████████████████████████████████████████████████
-</pre>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZXKZWB13D6gFO/giphy.gif" width="200"/>
