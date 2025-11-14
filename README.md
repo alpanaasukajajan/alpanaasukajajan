@@ -26,7 +26,7 @@
 ---
 
 <!-- ======================= SKILLS ======================= -->
-## 🛠️ Tech Stack (Neon Badges)
+## 🛠️ Tech Stack 
 
 ### 🚀 **Languages**
 <p>
