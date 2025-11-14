@@ -66,15 +66,12 @@
 ---
 
 <!-- ======================= GITHUB STATS ======================= -->
-## 📊 GitHub Stats (Neon Glow)
 
-
----
 
 <!-- ======================= CONNECT ======================= -->
 ## 🌐 Connect With Me
 <p>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://instagram.com" target="https://www.instagram.com/alfanaafauzn/?__pwa=1">
     <img src="https://img.shields.io/badge/Instagram-ff00bb?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="#" target="_blank">
@@ -85,5 +82,5 @@
 ---
 
 <p align="center" style="color:#00ffe0; text-shadow:0 0 12px #00ffe0; font-size:18px;">
-⭐ Stay Creative • Stay Futuristic • Stay Cyberpunk ⭐
+⭐ Stay Creative • Stay Futuristic • Stay Happy ⭐
 </p>
