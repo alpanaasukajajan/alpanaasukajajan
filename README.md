@@ -18,8 +18,8 @@
 <!-- ======================= ABOUT ======================= -->
 ## 🧬 About Me 
 - 🎓 Mahasiswa **Sistem Informasi**  
-- 🔮 Web Developer dengan sentuhan **cyberpunk modern**  
-- 🧪 UI/UX Designer & Graphic Artist  
+- 🔮 Web Developer 
+- 🧪 UI/UX Designer & Graphic Designer
 - ⚡ Fokus pada clean code + aesthetic design  
 - 💾 Pengguna setia VSCode, Laravel, dan Figma  
 
